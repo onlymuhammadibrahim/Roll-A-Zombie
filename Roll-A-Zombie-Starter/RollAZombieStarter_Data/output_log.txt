@@ -22,9 +22,3 @@ Platform assembly: F:\github\Roll-A-Zombie\Roll-A-Zombie-Starter\RollAZombieStar
 desktop: 1920x1200 59Hz; virtual: 1920x1200 at 0,0
 <RI> Initializing input.
 <RI> Input initialized.
-<RI> Initialized touch support.
-UnloadTime: 0.868700 ms
-Setting up 3 worker threads for Enlighten.
-  Thread -> id: 37b0 -> priority: 1 
-  Thread -> id: 1ef8 -> priority: 1 
-  Thread -> id: 14d4 -> priority: 1 
